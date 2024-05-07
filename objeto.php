@@ -30,7 +30,4 @@ class Presidente{
 
 
 ?>
-En este ejemplo, la clase Perro hereda de la clase Animal.
-La clase Perro tiene su propio método hacerSonido(), que sobrescribe el método hacerSonido() de la clase Animal.
-Cuando creamos una instancia de la clase Perro y llamamos al método hacerSonido(), se ejecutará el método definido en la clase Perro,
-no en la clase Animal.
+
